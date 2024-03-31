@@ -1,0 +1,452 @@
+[
+  {
+    "Nombre_completo": "Felipe Jim\u00e9nez",
+    "Documento_de_identidad": "663089361",
+    "Salario": 3744.22,
+    "Ciudad": "Tolima",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Educaci\u00f3n",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Paula N\u00fa\u00f1ez",
+    "Documento_de_identidad": "837332900",
+    "Salario": 3168.6,
+    "Ciudad": "Bogot\u00e1",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Carlos G\u00f3mez",
+    "Documento_de_identidad": "840094393",
+    "Salario": 3709.68,
+    "Ciudad": "Armenia",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Salud",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Andr\u00e9s Aguilar",
+    "Documento_de_identidad": "861602230",
+    "Salario": 1823.26,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Biotecnolog\u00eda",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Juan S\u00e1nchez",
+    "Documento_de_identidad": "209871437",
+    "Salario": 3061.23,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Biotecnolog\u00eda",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Elena L\u00f3pez",
+    "Documento_de_identidad": "886502729",
+    "Salario": 1271.66,
+    "Ciudad": "Rionegro",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Bienes ra\u00edces",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Paula Rodr\u00edguez",
+    "Documento_de_identidad": "836971226",
+    "Salario": 3251.29,
+    "Ciudad": "Rionegro",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Medios de comunicaci\u00f3n",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Fernando Silva",
+    "Documento_de_identidad": "513621119",
+    "Salario": 3432.18,
+    "Ciudad": "Envigado",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Alimentos y bebidas",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Ana V\u00e1zquez",
+    "Documento_de_identidad": "414848256",
+    "Salario": 3660.85,
+    "Ciudad": "Rionegro",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Construcci\u00f3n",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Pedro Ortiz",
+    "Documento_de_identidad": "368541535",
+    "Salario": 2046.29,
+    "Ciudad": "Bello",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Alimentos y bebidas",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Luis L\u00f3pez",
+    "Documento_de_identidad": "394118228",
+    "Salario": 2621.34,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Bienes ra\u00edces",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Gabriela Garc\u00eda",
+    "Documento_de_identidad": "799116107",
+    "Salario": 1865.07,
+    "Ciudad": "Bogot\u00e1",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Publicidad",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Luis \u00c1lvarez",
+    "Documento_de_identidad": "562946899",
+    "Salario": 2148.22,
+    "Ciudad": "Cali",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Moda",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Manuel D\u00edaz",
+    "Documento_de_identidad": "937059904",
+    "Salario": 2371.13,
+    "Ciudad": "Medell\u00edn",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Transporte",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Andr\u00e9s Morales",
+    "Documento_de_identidad": "463849486",
+    "Salario": 4160.01,
+    "Ciudad": "Bello",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Manufactura",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Diego Aguilar",
+    "Documento_de_identidad": "632921227",
+    "Salario": 1135.78,
+    "Ciudad": "Cali",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Bienes ra\u00edces",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Valentina Garc\u00eda",
+    "Documento_de_identidad": "937516920",
+    "Salario": 1480.4,
+    "Ciudad": "Caldas",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Transporte",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Paula Garc\u00eda",
+    "Documento_de_identidad": "113935415",
+    "Salario": 1967.48,
+    "Ciudad": "Bogot\u00e1",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Ingenier\u00eda",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Andr\u00e9s Cruz",
+    "Documento_de_identidad": "308021327",
+    "Salario": 1072.09,
+    "Ciudad": "Medell\u00edn",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Biotecnolog\u00eda",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Juliana S\u00e1nchez",
+    "Documento_de_identidad": "378067592",
+    "Salario": 2207.77,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Moda",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Ana Morales",
+    "Documento_de_identidad": "656385762",
+    "Salario": 4163.66,
+    "Ciudad": "Cartagena",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Comercio",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Elena \u00c1lvarez",
+    "Documento_de_identidad": "435529944",
+    "Salario": 4929.9,
+    "Ciudad": "Bello",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Elena P\u00e9rez",
+    "Documento_de_identidad": "238618110",
+    "Salario": 2409.83,
+    "Ciudad": "Barranquilla",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Alimentos y bebidas",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Pedro Mendoza",
+    "Documento_de_identidad": "706960896",
+    "Salario": 1916.78,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Seguros",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Luc\u00eda Aguilar",
+    "Documento_de_identidad": "206823790",
+    "Salario": 2459.91,
+    "Ciudad": "Rionegro",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Medios de comunicaci\u00f3n",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Daniela V\u00e1zquez",
+    "Documento_de_identidad": "214301090",
+    "Salario": 3297.25,
+    "Ciudad": "Bello",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Construcci\u00f3n",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Ricardo Morales",
+    "Documento_de_identidad": "374957675",
+    "Salario": 3197.04,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Juliana Hern\u00e1ndez",
+    "Documento_de_identidad": "787516867",
+    "Salario": 4991.79,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Publicidad",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Valentina Morales",
+    "Documento_de_identidad": "115291336",
+    "Salario": 1600.6,
+    "Ciudad": "Caldas",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Automoci\u00f3n",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Isabella Mart\u00ednez",
+    "Documento_de_identidad": "340758774",
+    "Salario": 2337.04,
+    "Ciudad": "Armenia",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Medios de comunicaci\u00f3n",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Alejandro Ramos",
+    "Documento_de_identidad": "633584644",
+    "Salario": 3135.25,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Consultor\u00eda",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Marta Mart\u00ednez",
+    "Documento_de_identidad": "871713924",
+    "Salario": 3114.12,
+    "Ciudad": "Cali",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Tecnolog\u00eda",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Carlos Gonz\u00e1lez",
+    "Documento_de_identidad": "568439475",
+    "Salario": 1183.07,
+    "Ciudad": "Cartagena",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Transporte",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Elena Ortiz",
+    "Documento_de_identidad": "757673577",
+    "Salario": 2020.28,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Telecomunicaciones",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Luc\u00eda \u00c1lvarez",
+    "Documento_de_identidad": "251748645",
+    "Salario": 4407.01,
+    "Ciudad": "Caldas",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Construcci\u00f3n",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Sof\u00eda \u00c1lvarez",
+    "Documento_de_identidad": "573971883",
+    "Salario": 4417.04,
+    "Ciudad": "Envigado",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Agricultura",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Pedro Mendoza",
+    "Documento_de_identidad": "242161480",
+    "Salario": 3900.43,
+    "Ciudad": "Rionegro",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Pedro Aguilar",
+    "Documento_de_identidad": "121759832",
+    "Salario": 2700.17,
+    "Ciudad": "Bogot\u00e1",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Educaci\u00f3n",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Carlos Aguilar",
+    "Documento_de_identidad": "280590861",
+    "Salario": 3071.16,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Alimentos y bebidas",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Ver\u00f3nica Mendoza",
+    "Documento_de_identidad": "870089788",
+    "Salario": 2307.01,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Aeroespacial",
+    "Nivel_de_riesgo": 4
+  },
+  {
+    "Nombre_completo": "Valentina Guti\u00e9rrez",
+    "Documento_de_identidad": "192941669",
+    "Salario": 1689.8,
+    "Ciudad": "Bello",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Ingenier\u00eda",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Fernando Ortiz",
+    "Documento_de_identidad": "721837744",
+    "Salario": 2855.49,
+    "Ciudad": "Medell\u00edn",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Luis Gonz\u00e1lez",
+    "Documento_de_identidad": "732681023",
+    "Salario": 2454.58,
+    "Ciudad": "Cali",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Textil",
+    "Nivel_de_riesgo": 3
+  },
+  {
+    "Nombre_completo": "Mar\u00eda G\u00f3mez",
+    "Documento_de_identidad": "187407203",
+    "Salario": 4293.62,
+    "Ciudad": "Tolima",
+    "Tipo_de_independiente": "Prestaci\u00f3n de servicio",
+    "Sector_econ\u00f3mico": "Telecomunicaciones",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Miguel G\u00f3mez",
+    "Documento_de_identidad": "666147991",
+    "Salario": 4044.82,
+    "Ciudad": "Tolima",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Agricultura",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Jos\u00e9 Rojas",
+    "Documento_de_identidad": "414795941",
+    "Salario": 2399.05,
+    "Ciudad": "Pereira",
+    "Tipo_de_independiente": "Voluntario",
+    "Sector_econ\u00f3mico": "Comercio",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Javier S\u00e1nchez",
+    "Documento_de_identidad": "371735134",
+    "Salario": 1027.03,
+    "Ciudad": "Bogot\u00e1",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Educaci\u00f3n",
+    "Nivel_de_riesgo": 2
+  },
+  {
+    "Nombre_completo": "Diego Silva",
+    "Documento_de_identidad": "284360310",
+    "Salario": 3737.42,
+    "Ciudad": "Caldas",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Publicidad",
+    "Nivel_de_riesgo": 5
+  },
+  {
+    "Nombre_completo": "Pedro Mendoza",
+    "Documento_de_identidad": "830836240",
+    "Salario": 3050.66,
+    "Ciudad": "Cucuta",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Finanzas",
+    "Nivel_de_riesgo": 1
+  },
+  {
+    "Nombre_completo": "Miguel Mart\u00ednez",
+    "Documento_de_identidad": "309082265",
+    "Salario": 4476.13,
+    "Ciudad": "Bucaramanga",
+    "Tipo_de_independiente": "Independiente",
+    "Sector_econ\u00f3mico": "Entretenimiento",
+    "Nivel_de_riesgo": 3
+  }
+]

@@ -1,0 +1,59 @@
+.wrapper {
+    height: 80vh;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.colorbtn{
+    background-color: #0033A0 !important;
+    color: white;
+    font-family: Arial;
+    border: 1px solid #0033A0 ;
+    border-radius: 40px;
+}
+
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
+
+.titleContain{
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+}
+
+.lbltitleContain{
+    color: #848484;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.linko, .switch a {
+    font-size: 14px;
+    color: #0033A0 !important;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: FS_Joey-Bold;
+}
+
+.containerbtn{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.left{
+    display: flex;
+    text-align: left;
+    justify-content: flex-start;
+}
+
+.right{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

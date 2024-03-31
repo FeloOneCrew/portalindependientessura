@@ -3,3 +3,19 @@
     border-radius: 40px;
     font-weight: bold;
 }
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+}
+
+.cont1{
+    width: 60%;
+    margin-right:0px;
+}
+
+.contInfo{
+    margin-left: 4rem;
+    margin-top: 11rem;
+    margin-right: 2rem;
+}
